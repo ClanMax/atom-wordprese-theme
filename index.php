@@ -54,6 +54,8 @@ get_header();
 		</main><!-- #main -->
 	</div><!-- #primary -->
 
+
 <?php
-get_sidebar();
+get_template_part( 'template-parts/content', 'cities' );
+get_template_part( 'template-parts/content', 'contact' );
 get_footer();

@@ -34,7 +34,8 @@
 	</div>
 </footer>
 
-<?php wp_footer(); ?>
+<?php wp_footer();
+get_template_part( 'template-parts/content', 'recall' );?>
 
 </body>
 <script type="text/javascript" src="<?php echo get_bloginfo('template_url') ?>/js/main.js"></script>
