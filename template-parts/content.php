@@ -21,9 +21,6 @@
 			?>
 		<?php endif; ?>
 
-
-	<?php atom_post_thumbnail(); ?>
-
 		<?php
 		the_content( sprintf(
 			wp_kses(
@@ -36,11 +33,6 @@
 				)
 			),
 			get_the_title()
-		) );
-
-		wp_link_pages( array(
-			'before' => '<div class="page-links">' . esc_html__( 'Pages:', 'atom' ),
-			'after'  => '</div>',
 		) );
 		?>
 	</div>

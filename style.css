@@ -2619,4 +2619,9 @@ section.partners .item .text h3 {
   font-size: 2.4rem;
 }
 
+.size-post-thumbnail {
+  border-radius: 15px;
+  background-color: #d8d8d8;
+}
+
 /*# sourceMappingURL=main.css.map */
