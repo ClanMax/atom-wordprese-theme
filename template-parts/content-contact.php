@@ -1,0 +1,57 @@
+<?php
+/**
+ * Template part for displaying posts
+ *
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
+ *
+ * @package Atom
+ */
+
+?>
+<section id='contacts' class='blue_back'>
+	<div class='container'>
+		<h2>Контакты</h2>
+		<h3>Отдел продаж</h3>
+		<p class='big'>г. Ростов-на-Дону, ул. Буровая, 46. Офис, 24</p>
+		<ul class='employees'>
+			<li>
+				<span class='person'><h3>Дмитрий Никитин</h3> <a target='_blank' href='https://vk.com/2bfun' class='vk'>https://vk.com/2bfun</a></span>
+				<p>
+					Руководитель отдела продаж<br />
+					+7 952 608-62-95
+				</p>
+			</li>
+			<li>
+				<span class='person'><h3>Мария Киптева</h3> <a target='_blank' href='https://vk.com/id21828131' class='vk'>https://vk.com/id21828131</a></span>
+				<p>
+					Менеджер по продажам<br />
+					+7 951 842-21-40
+				</p>
+			</li>
+			<li>
+				<span class='person'><h3>Капрельян Ирина</h3> <a target='_blank' href='https://vk.com/id4094864' class='vk'>https://vk.com/id4094864</a></span>
+				<p>
+					Менеджер по продажам<br />
+					+7 951 846-46-19
+				</p>
+			</li>
+			<li>
+				<span class='person'><h3>Сергей Ценцевицкий</h3> <a target='_blank' href='https://vk.com/id47387223' class='vk'>https://vk.com/id47387223</a></span>
+				<p>
+					Отдел производства<br />
+					+7 987 382-88-48
+				</p>
+			</li>
+			<li>
+				<span class='person'><h3>Наталья Ковалева</h3> <a target='_blank' href='#' class='vk'></a></span>
+				<p>
+					Бухгалтерия<br />
+					+7 (8452) 44 23 23
+				</p>
+			</li>
+		</ul>
+	</div>
+</section>
+<div class='map' id='map'></div>
+
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A25c9a215eea4464235385ee83086eeac25723d4947f9d7f4ab1eb9e52341fa6d&amp;lang=ru_RU&amp;id=map"></script>
