@@ -28,7 +28,7 @@ get_header();
 		</div>
 	</section>
 
-	<section class='features'>
+	<section class='features' id="features">
 		<div class='container'>
 			<h2>Решаем проблемы за вас</h2>
 			<div class='row'>
@@ -79,7 +79,7 @@ get_header();
 		</div>
 	</section>
 
-	<section class='stand_examples blue_back'>
+	<section class='stand_examples blue_back' id="ourworks">
 		<div class='container'>
 			<h2>Наши стенды в работе</h2>
 			<div class='row'>
