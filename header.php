@@ -62,7 +62,7 @@
 						</a>
 					</div>
 					<div class='number col-xl-4 col-md-3 col-12'>
-						<span>8 800 637-96-96</span>
+						<span>8 952 608-62-95</span>
 						<button type='button' class='recall'>Заказать звонок</button>
 					</div>
 					<div class='col-md-3 col-12'>

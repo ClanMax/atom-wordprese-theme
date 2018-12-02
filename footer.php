@@ -20,7 +20,7 @@
 					'menu_class'     => 'nav',
 				) );
 				?>
-				<span class='number'>8 800 637-96-96</span>
+				<span class='number'>8 952 608-62-95</span>
 			</div>
 		</div>
 	</nav>

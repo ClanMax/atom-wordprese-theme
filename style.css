@@ -2620,6 +2620,7 @@ section.partners .item .text h3 {
 }
 
 .size-post-thumbnail {
+  display: block;
   border-radius: 15px;
   background-color: #d8d8d8;
 }
